@@ -15,7 +15,7 @@
   <img align="center" alt="Le-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Le-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Le-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Le-Mysql" height="30" width="40" src="https://img.icons8.com/stickers/100/ffffff/mysql.png">
+  <img align="center" alt="Le-Mysql" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png">
   <img align="right" alt="Le-pic" height="150" style="border-radius:50px; width="40" src="https://i.pinimg.com/564x/00/2e/9c/002e9cda96fc53387449f5f88edee703.jpg">" 
 </div>
   
