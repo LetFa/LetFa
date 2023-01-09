@@ -26,7 +26,7 @@
 <div> 
   <a href="https://instagram.com/leehf_aarias" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/let%C3%ADcia-farias-24753a238/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"" target="_blank"></a>
-  <a href = "mailto:lefarias111@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png" target="_blank"></a>
+  <a href = "mailto:leticiaprogramadora@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png" target="_blank"></a>
  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
