@@ -18,6 +18,7 @@
   <img align="center" alt="Le-Mysql" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png">
   <img align="center" alt="Le-Java" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   <img align="center" alt="Le-react" height="30" width="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png">
+    <img align="center" alt="Le-react" height="30" width="30" src="https://img.icons8.com/color/48/null/sass.png">
   <img align="right" alt="Le-pic" height="150" style="border-radius:50px; width="40" src="https://i.pinimg.com/564x/00/2e/9c/002e9cda96fc53387449f5f88edee703.jpg">
  
 </div>
