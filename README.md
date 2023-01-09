@@ -1,8 +1,8 @@
 ### Olá! eu sou a Letícia Farias
 
 - 🔭 Desejo trabalhar na área de Front-end;
-- 🌱 Atualmente estou estudando a linguagem PHP e JavaScript;
-- 📫 How to reach me: lefarias111@gmail.com
+- 🌱 Atualmente estou estudando  React e JavaScript;
+- 📫 How to reach me: leticiaprogramadora@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
